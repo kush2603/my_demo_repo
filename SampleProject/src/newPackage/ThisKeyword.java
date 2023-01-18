@@ -17,5 +17,6 @@ public class ThisKeyword {
 	{
 		ThisKeyword t = new ThisKeyword();
 		t.vegetables();
+		System.out.println("fruit");
 	}
 }
